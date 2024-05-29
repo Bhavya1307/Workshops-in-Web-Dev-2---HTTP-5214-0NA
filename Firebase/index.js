@@ -40,9 +40,6 @@ document.getElementById("message-form").addEventListener("submit", () => {
         message: message,
         name: name
     });
-
-    document.getElementById("name").value;
-    document.getElementById("msg").value;
 });
 
 // Read data and update the UI
